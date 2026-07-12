@@ -1,0 +1,11 @@
+{
+  "hyperparameters": {
+    "learning_rate": "",
+    "batch_size": "",
+    "epochs": "",
+    "optimizer": "",
+    "loss_function": "",
+    "regularization": "",
+    "scheduler": ""
+  }
+}

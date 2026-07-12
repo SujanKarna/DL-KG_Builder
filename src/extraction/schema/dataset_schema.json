@@ -1,0 +1,13 @@
+{
+  "dataset": {
+    "name": "",
+    "source": "",
+    "size": "",
+    "splits": {
+      "train": "",
+      "validation": "",
+      "test": ""
+    },
+    "preprocessing": []
+  }
+}

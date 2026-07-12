@@ -1,0 +1,19 @@
+{
+  "training": {
+    "hardware": {
+      "gpu": "",
+      "cpu": "",
+      "memory": ""
+    },
+    "software": {
+      "framework": "",
+      "version": "",
+      "dependencies": []
+    },
+    "environment": {
+      "os": "",
+      "docker": "",
+      "seed": ""
+    }
+  }
+}
